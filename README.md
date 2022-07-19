@@ -7,10 +7,18 @@ Erick Díaz              https://github.com/ErickFullStack1979/SprintM5
 Resumen: Este proyecto fue ejecutado a petición de una empresa de asesorías ficticias,
 en la que se debe crear una base de datos en MySQL, se dejan datos de ingreso de cada 
 perfil.
-Usuario	       Perfil	            Password
-PamelaCortes	administrativo	    pame94
-PaulaRamos	  cliente	            pausuper7
-NinoskaCofre	profesional	        ninodisney00
+
+Administrativo
+RUN: 13525689
+Contraseña: pame94
+
+Cliente
+RUN: 17521452
+Contraseña: pausuper7
+
+Profesional
+RUN: 17525256
+Contraseña: ninodisney00
 
 El aspecto más relevante en conjunto con la dificultad de lo encomendado, 
 nos percatamos que al trabajar en el IDE Eclipse, las variables, atributos y métodos son susceptibles
